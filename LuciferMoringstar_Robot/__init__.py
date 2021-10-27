@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Request flix Bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [ARJUN](
+https://t.me/lvx2_edz)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ GROUP   : @Request_flix
 """
